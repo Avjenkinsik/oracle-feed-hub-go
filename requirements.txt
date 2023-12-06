@@ -1,3 +1,4 @@
 # auto-createdpydantic==2.4.9
 eth-abi==2.9.6
 pydantic==1.8.7
+web3==2.1.9
