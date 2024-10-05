@@ -5,3 +5,4 @@
 # fix 6018
 # refactor 3782
 # fix 7293
+# refactor 7059
