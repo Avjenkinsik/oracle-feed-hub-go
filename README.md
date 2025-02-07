@@ -50,3 +50,4 @@
 - Update note 4195
 - Update note 7018
 - Update note 8985
+- Update note 1506
