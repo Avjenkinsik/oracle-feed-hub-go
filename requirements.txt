@@ -1,1 +1,2 @@
 # auto-createdpydantic==2.4.9
+eth-abi==2.9.6
