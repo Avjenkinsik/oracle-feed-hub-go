@@ -72,3 +72,4 @@
 - Update note 4098
 - Update note 4575
 - Update note 1973
+- Update note 2600
