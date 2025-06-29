@@ -30,3 +30,4 @@
 # optimize 9031
 # fix 9624
 # fix 6344
+# refactor 6178
